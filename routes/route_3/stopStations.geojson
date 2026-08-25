@@ -1,0 +1,48 @@
+{
+"type": "FeatureCollection",
+"name": "N05-24_Station2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"xy_coordinate_resolution": 1e-09,
+"features": [
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "北陸線", "N05_003": "西日本旅客鉄道（旧国鉄）", "N05_004": "1957", "N05_005b": "1957", "N05_005e": "2014", "N05_006": "EB03_16203067", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "越中宮崎", "platform": "駅舎側", 
+"desc":"1981（昭和56）年2月27日（金）<br>海側ホーム<br>521ㇾ 富山→長岡<br>海側ホーム<br>0847　80分遅発<br>車内は学生より年配者が多かった。", 
+"img": [ "etchu-miyazaki_12.jpg"],
+"hensei": "521r.jpg",
+"stopStation": "etchu-miyazaki_station.jpg",
+"character": "EF70_right.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 137.5995, 36.973875 ] } },
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "北陸線", "N05_003": "西日本旅客鉄道（旧国鉄）", "N05_004": "1912", "N05_005b": "1950", "N05_005e": "2014", "N05_006": "EB03_16203068", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "市振", "platform": "（駅舎）反対側", 
+"desc":"1981（昭和56）年2月27日（金）<br>521ㇾ 富山→長岡<br>海側ホーム<br>進行方向左の車窓では道路はなく、すぐ日本海という景色<br>0855　約80分遅発", 
+"img": [ "ichiburi_11.png", "ichiburi_12.png"],
+"hensei": "521r.jpg",
+"stopStation": "ichiburi_station.jpg",
+"character": "EF70_right.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 137.650485, 36.980445 ] } },
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "北陸線", "N05_003": "西日本旅客鉄道（旧国鉄）", "N05_004": "1912", "N05_005b": "1950", "N05_005e": "2014", "N05_006": "EB03_16203069", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "親不知", "platform": "（駅舎）反対側", 
+"desc":"1981（昭和56）年2月27日（金）<br>521ㇾ 富山→長岡<br>海側ホーム<br>帰宅する高校生と試験中の高校生で混雑<br>0902　約80分遅発", 
+"img": [ ],
+"hensei": "521r.jpg",
+"stopStation": "oyashirazu_station.jpg",
+"character": "EF70_right.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 137.73803, 37.00685 ] } },
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "北陸線", "N05_003": "西日本旅客鉄道（旧国鉄）", "N05_004": "1912", "N05_005b": "1969", "N05_005e": "2014", "N05_006": "EB03_16203074", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "能生", "platform": "2", 
+"desc":"1981（昭和56）年2月27日（金）<br>521ㇾ 富山→長岡<br>2?番線<br>高校生が全員下車し車内が空いた<br>0944　約80分遅発", 
+"img": [ ],
+"hensei": "521r.jpg",
+"stopStation": "nou_station.jpg",
+"character": "EF70_right.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 137.988402, 37.096008 ] } },
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "北陸線", "N05_003": "西日本旅客鉄道（旧国鉄）", "N05_004": "1911", "N05_005b": "1950", "N05_005e": "2014", "N05_006": "EB03_16203080", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "直江津", "platform": "2", 
+"desc": "1981（昭和56）年2月27日（金）<br>521ㇾ 富山→長岡<br>1?番線<br>1000　65分遅着", 
+"img": [ "naoetsu_21.jpg"],
+"hensei": "521r.jpg",
+"stopStation": "naoetsu_station.jpg",
+"character": "EF70_right.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 138.242233, 37.170258 ] } }
+]
+}

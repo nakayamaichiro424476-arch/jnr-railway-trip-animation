@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "N05-24_Station2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"xy_coordinate_resolution": 1e-09,
+"features": [
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "東北線", "N05_003": "東日本旅客鉄道（旧国鉄）", "N05_004": "1883", "N05_005b": "1950", "N05_005e": "9999", "N05_006": "EB03_12207018", "N05_007": null, "N05_008": null, "N05_009": null, "N05_011": "浦和" }, "geometry": { "type": "Point", "coordinates": [ 139.657145, 35.858565 ] } },
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "東北線", "N05_003": "東日本旅客鉄道（旧国鉄）", "N05_004": "1910", "N05_005b": "1950", "N05_005e": "9999", "N05_006": "EB03_12207014", "N05_007": null, "N05_008": null, "N05_009": null, "N05_011": "川口" }, "geometry": { "type": "Point", "coordinates": [ 139.717499, 35.801824 ] } },
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "東北線", "N05_003": "東日本旅客鉄道（旧国鉄）", "N05_004": "1885", "N05_005b": "1950", "N05_005e": "9999", "N05_006": "EB03_12207013", "N05_007": null, "N05_008": null, "N05_009": null, "N05_011": "赤羽" }, "geometry": { "type": "Point", "coordinates": [ 139.721243, 35.777635 ] } }
+]
+}

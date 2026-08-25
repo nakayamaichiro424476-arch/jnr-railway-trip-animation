@@ -1,0 +1,56 @@
+{
+"type": "FeatureCollection",
+"name": "N05-24_Station2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"xy_coordinate_resolution": 1e-09,
+"features": [
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "北陸線", "N05_003": "西日本旅客鉄道（旧国鉄）", "N05_004": "1911", "N05_005b": "1950", "N05_005e": "2014", "N05_006": "EB03_16203080", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "直江津", "platform": "5", 
+"desc": "1981（昭和56）年2月27日（金）<br>2302M 急行妙高2号：直江津→上野<br>3?番線<br>4002ㇾ日本海いまだ停車中。入場券・かに寿司駅弁購入。<br>1036　定刻発", 
+"img": [ "naoetsu_21.jpg"],
+"hensei": "myoko2_L.png",
+"stopStation": "naoetsu_station.jpg",
+"character": "kuha169_left.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 138.242233, 37.170258 ] } },
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "信越線", "N05_003": "東日本旅客鉄道（旧国鉄）", "N05_004": "1886", "N05_005b": "1950", "N05_005e": "2014", "N05_006": "EB03_16215019", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "高田", "platform": "1", 
+"desc":"1981（昭和56）年2月27日（金）<br>2302M 急行妙高2号：直江津→上野<br>？番線<br>この時間、沿線では女性が道を雪かきしていた<br>1058　3分遅発", 
+"img": [ ],
+"hensei": "myoko2_R.png",
+"stopStation": "takata_station.jpg",
+"character": "kuha169_left.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 138.241965, 37.11462 ] } },
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "信越線", "N05_003": "東日本旅客鉄道（旧国鉄）", "N05_004": "1886", "N05_005b": "1950", "N05_005e": "2014", "N05_006": "EB03_16215015", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "新井", "platform": "2", 
+"desc":"1981（昭和56）年2月27日（金）<br>2302M 急行妙高2号：直江津→上野<br>？番線<br>単線区間なのか337Mと交換<br>1058　3分遅発", 
+"img": [ ],
+"hensei": "myoko2_R.png",
+"stopStation": "arai_station.jpg",
+"character": "kuha169_left.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 138.25563, 37.026735 ] } },
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "信越線", "N05_003": "東日本旅客鉄道（旧国鉄）", "N05_004": "1911", "N05_005b": "1950", "N05_005e": "2014", "N05_006": "EB03_16215014", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "二本木", "platform": "1", 
+"desc":"1981（昭和56）年2月27日（金）<br>2302M 急行妙高2号：直江津→上野<br>？番線<br>かなり遅延の妙高1号と交換との予想外れる。二本木がスイッチバックと知ったのは2019年頃", 
+"img": [ ],
+"hensei": "myoko2_R.png",
+"stopStation": "nihongi_station.jpg",
+"character": "kuha169_left.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 138.232615, 36.989579 ] } },
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "信越線", "N05_003": "東日本旅客鉄道（旧国鉄）", "N05_004": "1886", "N05_005b": "1950", "N05_005e": "1984", "N05_006": "EB03_16215013", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "関山", "platform": "2", 
+"desc":"1981（昭和56）年2月27日（金）<br>2302M 急行妙高2号：直江津→上野<br>？番線<br>かなり遅延の妙高1号と交換。関山駅もスイッチバックと知ったのは二本木と同じ", 
+"img": [ ],
+"hensei": "myoko2_R.png",
+"stopStation": "sekiyama_station.jpg",
+"character": "kuha169_left.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 138.224474, 36.936853 ] } },
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "信越線", "N05_003": "東日本旅客鉄道（旧国鉄）", "N05_004": "1888", "N05_005b": "1969", "N05_005e": "2014", "N05_006": "EB03_16215012", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "妙高高原", "platform": "3", 
+"desc":"1981（昭和56）年2月27日（金）<br>2302M 急行妙高2号：直江津→上野<br>？番線<br>1139　9分遅着", 
+"img": [ ],
+"hensei": "myoko2_R.png",
+"stopStation": "myokokogen_station.jpg",
+"character": "kuha169_left.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 138.212185, 36.872305 ] } }
+]
+}

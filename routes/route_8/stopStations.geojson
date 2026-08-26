@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "N05-24_Station2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"xy_coordinate_resolution": 1e-09,
+"features": [
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "高崎線", "N05_003": "東日本旅客鉄道（旧国鉄）", "N05_004": "1885", "N05_005b": "1950", "N05_005e": "9999", "N05_006": "EB03_13204001", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "大宮", "platform": "3", 
+"desc":"1981（昭和56）年2月27日（金）<br>924M 前橋→上野<br>3番線？<br>1928　25分遅発", 
+"img": [ ],
+"hensei": "924M_4.jpg",
+"stopStation": "omiya_station.jpg",
+"character": "kuha115shonan_left.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 139.624276, 35.906342 ] } },
+{ "type": "Feature", "properties": { "N05_001": "2", "N05_002": "東北線", "N05_003": "東日本旅客鉄道（旧国鉄）", "N05_004": "1883", "N05_005b": "1950", "N05_005e": "9999", "N05_006": "EB03_12207018", "N05_007": null, "N05_008": null, "N05_009": null, 
+"N05_011": "浦和", "platform": "3", 
+"desc":"1981（昭和56）年2月27日（金）<br>924M 前橋→上野<br>3番線<br>1948　23分遅着<br>途中下車・改札を抜け、入場券を購入し、北陸ワイド周遊券手元にゲット", 
+"img": [ ],
+"hensei": "924M.jpg",
+"stopStation": "urawa_station.jpg",
+"character": "kuha115shonan_left.png"
+ }, "geometry": { "type": "Point", "coordinates": [ 139.657145, 35.858565 ] } 
+}
+]
+}
